@@ -1,0 +1,8 @@
+{
+    "name": "card",
+    "description": "Make your credit card form better in one line of code.",
+    "homepage": "http://jessepollak.github.io/card/",
+    "author":"Jesse Pollak (Packaged by Joe Reeve)",
+    "version": "0.1.0",
+    "git": "https://github.com/ISNIT0/meteor-card.git"
+}
