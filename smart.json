@@ -4,5 +4,8 @@
     "homepage": "http://jessepollak.github.io/card/",
     "author":"Jesse Pollak (Packaged by Joe Reeve)",
     "version": "0.1.0",
-    "git": "https://github.com/ISNIT0/meteor-card.git"
+    "git": "https://github.com/ISNIT0/meteor-card.git",
+    "packages":{
+        "meteor-jquery-payment":"0.0.1"
+    }
 }
